@@ -7,15 +7,12 @@ version = "1.0.0"
 
 plugins {
     id("application")
-    kotlin("jvm") version "2.0.21"
+    kotlin("jvm") version "2.1.0"
 }
 
 application {
     mainClass.set("io.github.mikaojk.MainKt")
 }
-
-group = "io.github.mikaojk"
-version = "1.0.0"
 
 repositories {
     mavenCentral()
