@@ -7,7 +7,7 @@ version = "1.0.0"
 
 plugins {
     id("application")
-    kotlin("jvm") version "2.1.20"
+    kotlin("jvm") version "2.2.0"
 }
 
 application {
