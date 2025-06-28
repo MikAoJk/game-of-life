@@ -1,4 +1,4 @@
-name: Build and run
+name: Run main branch
 on:
   push:
     branches:
